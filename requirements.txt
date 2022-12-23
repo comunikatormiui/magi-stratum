@@ -32,3 +32,4 @@ six==1.4.1
 wsgiref==0.1.2
 zope.interface==4.1.0
 stratum==0.2.15
+setuptools>=65.5.1 # not directly required, pinned by Snyk to avoid a vulnerability
