@@ -4,10 +4,10 @@ Magic-file-extensions==0.2
 MarkupSafe==0.18
 MySQL-python==1.2.5
 PyYAML==3.10
-Twisted==13.2.0
+Twisted==22.10.0rc1
 ansible==1.4.5
 argparse==1.2.1
-autobahn==0.8.4-3
+autobahn==20.12.3-3
 cffi==0.8.2
 cryptography==0.2.2
 defer==1.0.6
@@ -32,3 +32,4 @@ six==1.4.1
 wsgiref==0.1.2
 zope.interface==4.1.0
 stratum==0.2.15
+setuptools>=65.5.1 # not directly required, pinned by Snyk to avoid a vulnerability
