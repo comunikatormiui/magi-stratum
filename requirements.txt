@@ -18,7 +18,7 @@ httplib2==0.8
 numpy==1.7.1
 paramiko==1.12.1
 pyOpenSSL==0.14
-pyasn1==0.1.7
+pyasn1==0.6.2
 pycparser==2.10
 pycrypto==2.6.1
 pylibmc==1.2.3
